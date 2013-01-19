@@ -9,7 +9,7 @@
 
 @implementation BeautifulButtons
 
--(void)makeButton:(UIButton*)button styled:(NSString*)style
++(void)makeButton:(UIButton*)button styled:(NSString*)style
 {
     NSString *buttonName = [NSString stringWithFormat:@"%@Button.png", style];
     NSString *buttonNameHighlight = [NSString stringWithFormat:@"%@ButtonHighlight.png", style];
