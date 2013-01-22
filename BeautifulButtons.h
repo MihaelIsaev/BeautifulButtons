@@ -9,7 +9,7 @@
 
 #define BBStyleBlack @"black"
 #define BBStyleBlue @"blue"
-#define BBStyleGreen @"grenn"
+#define BBStyleGreen @"green"
 #define BBStyleGrey @"grey"
 #define BBStyleOrange @"orange"
 #define BBStyleTan @"tan"
