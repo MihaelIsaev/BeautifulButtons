@@ -18,5 +18,6 @@
 @interface BeautifulButtons : NSObject
 
 +(void)makeButton:(UIButton*)button styled:(NSString*)style;
++(void)makeButton:(UIButton*)button withDifferentStylesForNormal:(NSString*)styleNormal andSelected:(NSString*)styleSelected;
 
 @end
